@@ -5,4 +5,12 @@ void add()
 void sub()
   {
    a=b-c
+  }
+void mul()
+  {
+   a=b*c
+  }
+void div()
+  {
+   a=b%c
   }	   
